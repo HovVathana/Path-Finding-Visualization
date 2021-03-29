@@ -3,7 +3,7 @@ Implementation of path finding algorithms with Python.
 
 ## How to Run
 * Go to the directory inside your terminal
-* run by type in ```py pathfinding.py```
+* Run by type in ```py pathfinding.py```
 
 ## Library
 * Pygame: ```pip install pygame```
@@ -14,6 +14,8 @@ Implementation of path finding algorithms with Python.
 * A * (A-Star)
 
 ## Output 
+![Screenshot (14)](https://user-images.githubusercontent.com/65206951/112808893-a9eeca80-90a3-11eb-95ec-ce111671e472.png)
 
 ## Noted
 ``` " My implementation might not be efficient. "```
+
