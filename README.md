@@ -11,7 +11,7 @@ Implementation of path finding algorithms with Python.
 
 ## Features
 * Pick algorithms
-* Set row and col for start node and end node
+* Set row and column for start node and end node
 
 ## Algorithms
 * BFS (Breath First Search)
